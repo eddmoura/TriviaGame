@@ -1,0 +1,68 @@
+body {
+  margin: 15px;
+
+  
+}
+
+header, main {
+  background: lightblue;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  color: blue;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  min-height: 200px;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+#start-game{
+  color: blue;
+  background-color: darkblue;
+}
+
+.timer {
+  text-align: center;
+  margin-bottom: 20px;
+  font-style: italic;
+  background: lightblue;
+}
+
+#reset-game{
+  text-align: center;
+  background: darkblue;
+  color: blue;
+
+}
+
+.button {
+  text-align: center;
+  background: lightblue;
+
+}
+
+.question {
+  text-align: left;
+}
+
+.output {
+  margin-left: 20px;
+  padding: 10px 10px 10px 16px;
+}
+
+.output:hover {
+  background: darkblue;
+}
+
+.results-img {
+  text-align: center;
+}
